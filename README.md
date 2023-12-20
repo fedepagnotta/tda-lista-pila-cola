@@ -1,26 +1,23 @@
 <div align="right">
-<img width="32px" src="img/algo2.svg">
 </div>
 
-# NOMBRE TP/TDA
-
-## Repositorio de Federico Nicolas Pagnotta Lemes - 110973 - fedepagnotta14@gmail.com
+## TDAS LISTA, PILA Y COLA
 
 - Para compilar:
 
 ```bash
-gcc src/*.c pruebas_alumno.c -o pruebas_alumno
+gcc src/*.c pruebas.c -o pruebas
 ```
 
 - Para ejecutar:
 
 ```bash
-./pruebas_alumno
+./pruebas
 ```
 
 - Para ejecutar con valgrind:
 ```bash
-valgrind ./pruebas_alumno
+valgrind ./pruebas
 ```
 ---
 ##  Funcionamiento
